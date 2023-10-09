@@ -1,0 +1,17 @@
+DMM: Decision Making Manager
+
+This program is designed to help the user prioritize their tasks and goals depending on their urgency and importance.
+
+Personally, this is a tedious day-to-day task that I have failed to master myself, which has motivated me to go ahead and start this personal project
+
+The project timeline looks like this:
+
+Backend that organizes tasks and sorts them into urgency-importance order, created with Java
+--> CRUD function through SQL
+--> Implement frontend UI/UX through React, or in other langauges, so that the program can be used on a mobile device
+
+Features:
+Add, edit, delete, and save Task, set its urgency and importance
+Sort current tasks according to urgency and importance
+Draw a grid that visualizes where each tasks fits under the decision making matrix
+Add time-sensitive tasks, where the importance and urgency changes over time
