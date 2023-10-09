@@ -1,0 +1,3 @@
+class DeleteTaskCommand extends Command {
+    
+}

@@ -1,0 +1,3 @@
+class ChangeTaskCommand extends Command {
+    
+}

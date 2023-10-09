@@ -1,0 +1,3 @@
+class ViewDMMCommand extends Command {
+    
+}
