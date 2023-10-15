@@ -1,3 +1,5 @@
-class DeleteTaskCommand extends Command {
+package command;
+
+public class DeleteTaskCommand extends Command {
     
 }

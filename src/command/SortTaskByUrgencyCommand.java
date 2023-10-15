@@ -1,3 +1,5 @@
-class SortTaskByUrgencyCommand extends Command {
+package command;
+
+public class SortTaskByUrgencyCommand extends Command {
     
 }

@@ -1,3 +1,0 @@
-class CreateTaskCommand extends Command {
-    
-}

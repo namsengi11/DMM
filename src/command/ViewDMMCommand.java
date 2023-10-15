@@ -1,3 +1,5 @@
-class ViewDMMCommand extends Command {
+package command;
+
+public class ViewDMMCommand extends Command {
     
 }
